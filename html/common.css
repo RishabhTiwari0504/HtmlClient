@@ -1,0 +1,39 @@
+.h1 {
+	font-size: -webkit-xxx-large;
+	text-align: center;
+	color: white;
+}
+
+.h2 {
+	font-size: 30px;
+	color: white;
+	font-weight: bold;
+	text-align: left;
+}
+
+.content {
+	width: 800px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.input {
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	width: 400px;
+	height: 40px;
+	margin: 30px;
+}
+
+.button1 {
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	height: 40px;
+	margin: 30px;
+}
+.background1{
+	background-color: #006A4E ;
+	
+}

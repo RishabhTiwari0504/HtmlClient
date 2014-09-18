@@ -1,0 +1,25 @@
+.button{
+width:200px;
+height:100px;
+color:"#72A0C1";
+margin:20px;
+}
+.para{
+color:"#006400";
+font-weight:bold;
+font-size:30px;
+text-align:center;
+background-color:"#72A0C1";
+}
+.left{
+float:left;
+clear:both;
+}
+.right{
+float:right;
+}
+.background{
+width:800px;
+margin:40 auto; 
+text-align:center;
+}
